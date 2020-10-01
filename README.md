@@ -1,0 +1,2 @@
+# GHCWorkshop
+Test repository
